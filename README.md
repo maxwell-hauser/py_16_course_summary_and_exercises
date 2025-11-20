@@ -145,6 +145,8 @@ These examples are educational materials for the Computer Systems and Logic cour
 
 ---
 
-**Part of the Computer Systems and Logic Course**
+## Authorship
+Authored by Maxwell Hauser on November 19, 2025
 
-For questions or issues, refer to the course materials or open an issue on GitHub.
+## License
+MIT License
