@@ -139,14 +139,6 @@ This is part of the Computer Systems and Logic course series:
 - [py_14_transmission_types](https://github.com/maxwell-hauser/py_14_transmission_types)
 - [py_15_transmission_methods](https://github.com/maxwell-hauser/py_15_transmission_methods)
 
-## License
-
-These examples are educational materials for the Computer Systems and Logic course.
-
 ---
 
-## Authorship
-Authored by Maxwell Hauser on November 19, 2025
-
-## License
-MIT License
+<!-- License moved to dedicated LICENSE file -->
